@@ -8,12 +8,12 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Super Simple Example Webpage</title>
+    <title>CS453 Deployment Demo</title>
 </head>
 <body>
-  <h1>Super Simple Example Web Page</h1>
+  <h1>CS453 Deployment Demo</h1>
   <p>
-    This is a very simple example web page on a JSP.
+    CS 453 is the best course.
   </p>
 </body>
 </html>
